@@ -4,4 +4,4 @@
 HTML,CSS was used.
 
 
-![](adidas.gif)
+![](Adidas_website.gif)
